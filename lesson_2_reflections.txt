@@ -7,5 +7,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 By using the staging area you know exactly what you are adding with each commit. This ensures that you don't add to much.  If you are about to commit your staging area and realize that you have too much, you can always split it into logical chunks by running multiple commits
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches can help if you want to try out something experimental or maintain a parallel version for some reason (i think).
+
 
 
