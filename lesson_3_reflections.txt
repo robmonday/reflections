@@ -4,3 +4,12 @@ When you want to collaborate with others, when you need to be able to back up yo
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 When other collaborating, and you may not want to introduce their new code without inspecting it for both soundness and fit with what you are otherwise trying to accomplish
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches are variations of code being managed in parallel, with the thought that they will eventually be merged back into the master branch.
+
+Cloning simply copies all file inside a repository and saves it somewhere else.
+
+Forks are basically clones, done socially on the Git site.  It enables one user to copy a different user's code in order to do something completely different with it.
